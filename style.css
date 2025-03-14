@@ -270,7 +270,7 @@ input{
     .right {
         display: block;
         width: 100%;
-        height: 440px;
+        height: 100%;
         padding: 15px 20px;
         border-left: 10px solid #D69ADE;
         border-right: none;
